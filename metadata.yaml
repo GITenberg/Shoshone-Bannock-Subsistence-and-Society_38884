@@ -1,0 +1,32 @@
+_repo: Shoshone-Bannock-Subsistence-and-Society_38884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Murphy, Robert F. (Robert Francis)
+    alias: Murphy, Robert Francis
+    birthdate: 1924
+    deathdate: 1990
+    gutenberg_agent_id: '39694'
+    url: http://www.gutenberg.org/2009/agents/39694
+  - agent_name: Murphy, Yolanda
+    gutenberg_agent_id: '39695'
+    url: http://www.gutenberg.org/2009/agents/39695
+description: ''
+gutenberg_issued: '2012-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological Records, Vol. 16, No. 7
+subjects:
+- !lcsh 'Shoshoni Indians'
+- !lcc 'E011'
+- !lcsh 'Bannock Indians'
+title: Shoshone-Bannock Subsistence and Society
+url: http://www.gutenberg.org/ebooks/38884
